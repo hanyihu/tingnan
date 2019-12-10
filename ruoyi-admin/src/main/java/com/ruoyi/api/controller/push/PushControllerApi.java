@@ -34,7 +34,6 @@ public class PushControllerApi {
             result.put("operationResult", true);
         }
 
-
         return AjaxResult.error();
     }
 
